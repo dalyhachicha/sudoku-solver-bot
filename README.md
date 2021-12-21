@@ -14,3 +14,6 @@ After entering last row, select [0,0] block on grid (TOP LEFT block).
 
 # DEMO (FF)
 ![DEMO](https://s10.gifyu.com/images/ezgif.com-gif-maker-311f9fcd8ec14fc2a.gif) 
+
+# Last update
+15/06/2020
